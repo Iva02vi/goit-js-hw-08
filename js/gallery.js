@@ -76,7 +76,6 @@ const markup = images
                     src="${preview}"
                     data-source="${original}"
                     alt="${description}"
-                    width="360"
                 />
             </a>
         </li>`
